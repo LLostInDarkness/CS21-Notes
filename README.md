@@ -12,3 +12,7 @@ week 10 midterm review, Huffman codes, medians, Exponential and Unsolvable probl
 week 11 binary search trees (BST)  
 week 12 BST deletion, introduction to graphs  
 week 13 breadth-first search (BFS) and depth-first search (DFS)  
+week 14 minimum spanning trees spanning trees
+week 15 05.14 SSSP and APSP
+week 16 05.21 Final Exam
+week 17 05.28 meets at 7:00pm, final exam review, TBA reminder, last Questions
