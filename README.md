@@ -1,4 +1,5 @@
 # CS21-Notes (2025 Notes Guide)  
+## I haven't forgotten about this repo, will update this by the beginning of July -R
 week 01 02.05 intro/overview/review  
 week 02 02.12 algorithm efficiency, insertion sort, merge sort  
 week 03 02.19 heaps, Priority Queues, HeapSort  
